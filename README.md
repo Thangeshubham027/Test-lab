@@ -4,7 +4,7 @@ This project is designed to automate magento.softwaretestingboard.com  E-commerc
 
 Project is based on Java-Selenium using Selenium WEBdriver , TestGN Annotation , Parameterize XML file.
 
-This project focus on End-To-End place order and main functionality like,
+This project focus on End-To-End for Place Order and main functionality like,
 
 •	Register Functionality,
 
