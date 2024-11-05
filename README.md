@@ -1,6 +1,6 @@
 # Test-lab
 
-This project is designed to automate magento.softwaretestingboard.com  E-commerce website.
+This project is designed to automate https://magento.softwaretestingboard.com/  E-commerce website.
 
 Project is based on Java-Selenium using Selenium WEBdriver , TestGN Annotation , Parameterize XML file.
 
